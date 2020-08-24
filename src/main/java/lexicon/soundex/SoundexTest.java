@@ -59,6 +59,8 @@ public class SoundexTest {
                     System.out.println(new SoundexTest(s, "zit", "shit"));
                     System.out.println(new SoundexTest(s, "sheet", "shit"));
                     System.out.println(new SoundexTest(s, "sit", "shit"));
+                    System.out.println(new SoundexTest(s, "pass", "piss"));
+                    System.out.println(new SoundexTest(s, "shot", "shit"));
                 });
     }
 }
